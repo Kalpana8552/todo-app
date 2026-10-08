@@ -2,7 +2,7 @@
 
 A simple and Responsive To-Do List to manage daily tasks.
 
-Live Link: https://github.com/Kalpana8522/todo-app
+Live Link: https://github.com/Kalpana8552/todo-app
 
 Features:
 -Add tasks
